@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=ÇA+C'EST+BLADE+HASSAN+𝗩2 ❤️+;MALVIN-+XD-+𝗩2 🎉;CREATED+𝗕Y+MALVIN-KING ✔️" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=ÇA+C'EST+LE+BOT+DE+ALIDI+HASSAN+𝗩2 ❤️+;BLADE-+XD-+𝗩3 🎉;CREATED+𝗕Y+BLADE-HSNK ✔️" alt="Typing SVG" /></a>
   </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
@@ -17,7 +17,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg)
 <br>
 <p align="center"
-  <a href="https://github.com/kingmalvn/MALVIN-XD">
+  <a href="https://github.com/kingmalvn/BLADE-XMD">
     
   
 </p> 
